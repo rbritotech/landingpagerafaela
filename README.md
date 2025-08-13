@@ -17,7 +17,6 @@ Apresentar de forma simples e elegante minhas informações profissionais, portf
 
 ## 🖼️ Prévia
 ![Prévia da Landing Page](./screenshot.png)  
-*(Adicione um print da página e salve como `screenshot.png` na pasta do projeto.)*
 
 ## 🚀 Tecnologias Utilizadas
 - **HTML5** - Estrutura do site.
